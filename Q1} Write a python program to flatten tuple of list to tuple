@@ -1,0 +1,10 @@
+# Creating a list to be flattened
+list = [1, 2, 'a', 3, 'b', 4, 5, 6]
+
+# Function to flatten list to tuple
+def flatten_list(a):
+    return tuple(a)
+
+flattened_tuple = flatten_list(list)
+print("list:",list)
+print("flattened_tuple",flattened_tuple)
