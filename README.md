@@ -1,4 +1,5 @@
 # Futurense-Python-internship-codes
+# Second week of futurense internship: python data structures
 ![image](https://github.com/Akansha-S1/Futurense-Python-internship-codes/assets/115874218/b86ca315-8214-4a53-b669-cd267455846d)
 
 
