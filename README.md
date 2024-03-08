@@ -13,10 +13,6 @@
 
 ## https://www.geeksforgeeks.org/python-sort-tuple-list-by-nth-element-of-tuple/
 
-# Contact:
-# My Project
-
-This is a brief description of my project.
 
 ## Contact
 
